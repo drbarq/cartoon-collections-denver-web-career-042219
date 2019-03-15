@@ -10,11 +10,17 @@ def long_planeteer_calls(words)
   words.any? {|word| word.length > 4}
 end
 
-def find_the_cheese# code an argument here
+def find_the_cheese(foods)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
+
+  foods.include? 
+  foods.find {|food| }
+  
+  
 end
 
+##foods = ["banana", "cheddar", "sock"]
 
 ##elements = ["carrot", "cucumber", "pepper"]
 
