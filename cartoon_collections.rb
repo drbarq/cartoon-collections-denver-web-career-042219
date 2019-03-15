@@ -7,7 +7,7 @@ def summon_captain_planet(elements)
 end
 
 def long_planeteer_calls(words)
-  words.each {|word| word.length if > 4 true}
+  words.each {|word| word.length; if > 4 true}
   # Your code here
 end
 
