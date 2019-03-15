@@ -15,7 +15,7 @@ def find_the_cheese(foods)
   foods.find{|food| cheese_types.include?(food)}
 end
 
-## took a while to figure out I couldnt nest the includes but i guess it is becuase of the return vlaue
+## took a while to figure out I couldnt nest the includes but i guess it is becuase of the return value
 
 
 ##foods = ["banana", "cheddar", "sock"]
