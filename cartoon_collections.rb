@@ -18,3 +18,5 @@ end
 
 
 ##elements = ["carrot", "cucumber", "pepper"]
+
+##words = ["axe", "earth", "wind", "fire"]
